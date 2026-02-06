@@ -1,0 +1,32 @@
+html, body {
+    width: 200px;
+    height: 150px;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-image: linear-gradient(to bottom right, #1E1E22, #2C2C34);
+
+    font-family: Arial, sans-serif;
+}
+
+button {
+    color: #FFFFFF; 
+    background-color: #634B66;
+    border: none;
+    border-radius: 5px; 
+    padding: 10px 20px; 
+    margin: 10px;
+    font-size: 16px; 
+    cursor: pointer;
+    transition: background-color 0.3s ease; 
+}
+
+button:hover {
+    background-color: #7A5A7F;
+}
+
+button:active {
+    background-color: #523A54;
+}
