@@ -1,12 +1,12 @@
-# compare students in classes
+# Chrome Extension to compare students in classes
 
 todolist:
 
 auto scroll
-make prettier
-    learn bootstrap
-export names to csv
 
+make prettier
+
+export names to csv
 
 allow for more classes to be saved/compared
 
